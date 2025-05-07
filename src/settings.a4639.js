@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/sconanim/scene_scon.fire",orientation:"",jsList:[],bundleVers:{internal:"52d36",resources:"a55da",main:"b2c03"}};
